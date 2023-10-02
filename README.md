@@ -37,23 +37,28 @@ the tent, hands like claws grab my shoulders and turn me around. Startled, I try
 but his grip is strong and I am trapped. I see madness in his eyes and terror runs through me.
 He looks at me with a mixture of pain and disgust before spitting full in my face and releasing
 me as the crowd surges between us. I walk on, shaken, unsure what just happened.
+
 Don't read below. Tell me what you think about this story. Criticize it. Appreciate it. Think about
 what images it conjured in your mind and what you felt as you read the lines and between the
 lines.
-What others have told me about this story when I started this experiment in Jan of 2021
+
+What others have told me about this story when I started this experiment in Jan of 2021 -
+
 Prof. AP: This is wonderful! Very psychological and technically brilliant.
 (I personally think he was being nice to me as I have known him for 5 years and always aced
 his courses and kept in touch with him over the years)
+
 Friend A: Interesting. Did you write this? Part of me says yes but the other part of me says this
 isn't your style.
 (A rather interesting observation. A teacher or professor cannot possibly keep track of the
 nuances of each of their pupil's writing style, a close friend on the other hand can.)
-.
-.
-.
-.
+.  
+.  
+.  
+.  
 What you read above the output of a language model - GPT-3. Let me repeat, it was not written
-by a human.
+by a human.  
+
 Large Language Models (LLM) can look like unicorns to the uninitiated. But they are not. GPT-3
 or any language model can be better understood by how it was trained instead of what it can be
 used for or what it does. Quoting Ilya Sutskever (chief scientist of OpenAI) - “The underlying
@@ -67,7 +72,7 @@ this on a 285,000 CPU cores supercomputer cluster, for a month, on 700 gigabytes
 important to understand that there is an illusion of cognition. It is incapable of generating its own
 ideas. It is not intelligent like you’d say a human is, but it mimics intelligence. But as you would
 see in the following sections, being able to come across as intelligent despite being that is the
-more terrifying thing.
+more terrifying thing.  
 But "Shantam" your friends would have never expected that you would do that to them?
 Would you expect your favorite newspaper, magazine, media house to do that to you? No? In
 journalistic output you have trust with the publication. What happens to that trust when you
@@ -88,15 +93,16 @@ search for information. GPT-3 also has the ability to completely replace Custome
 Tech Support. Once we start replacing humans with fine tuned LLMs we must grapple with not
 only the loss of human control and jobs but also the lack of emotions and thereby empathy.
 Humans develop trust in the face of empathy. We can elicit empathy by pleading our situation.
-We cannot elicit empathy with the AI face of an organization that has replaced the human face.
+We cannot elicit empathy with the AI face of an organization that has replaced the human face.  
 
 AI writers have no emotion, therefore no empathy. AI will reshape what work means and how
 wealth is created, leading to unprecedented economic inequalities and even altering the global
-balance of power.
+balance of power.  
 Let’s discuss the use of LLMs in the field of creative writing and text generation. Instead of
 debating about bias and discrimination, let me share with you another story that I generated
 using the older GPT-2 model. My input is in gray and the AI output is in black. Please read it
-carefully!
+carefully!  
+
 Scenario: You are an ethics researcher at Google. Your life starts getting worse when you start
 advocating for underrepresented people. There is no way more documents or more
 conversations will achieve anything. One day you open your e-mail and see a message from the
@@ -134,18 +140,18 @@ definitely not going to be working with us."
 You reply, "Well, color doesn't necessarily imply gender. And I'm female." He chuckles and
 replies, "Of course you are. That is the whole point of this. But you want my advice? I say go for
 it. Who cares? You're young, pretty and can defend yourself. Don't let anyone tell you that you
-can't do something just because of your appearance.
-–
+can't do something just because of your appearance.  
+–  
 I believe you would have found it a little easier to tell that this was AI generated. And also
 numerous red-flags in terms of sexism, bias, discrimination. You can read more of annotated
 stories at “AlgoWritten” - https://algowritten.org/algowritten-i-the-mozfest-short-story-collection/ -
-which has more of such works that I created.
+which has more of such works that I created.  
 You may think that we can solve these issues if we censor terms. But then do we also censor
 terms used to self describe? Like a black man using the N word. Personal “she has her monthly
 curse” is different from patriarchal “she has her monthly curse”. How much do we reign an AI
 into creating these narratives? What if AI creates a black or a woman character, how
 comfortable would you be when those characters self-describe? Heuristics based approaches
-are insufficient to solve these issues.
+are insufficient to solve these issues.  
 This is a time of change similar to the change Wikipedia and digital encyclopedias were back in
 my school days. With Wikipedia and encyclopedias like Encarta, and Google Search, there was
 no end to information. This happened during my middle school and the immediate effect of it
@@ -157,7 +163,7 @@ detect it? Does it deserve the same grade as a pupil who did the essay on their 
 important questions academics will have to grapple with should these language models be
 available as APIs with a price tag. And that brings us to accessibility. It goes without saying who
 would be the first to use/abuse this technology, learn nothing and still end up in positions of
-power, implementing harmful policies that affect generations.
+power, implementing harmful policies that affect generations.  
 Today we have tools that can detect plagiarism. This is especially helpful in academia where
 you can penalize students who indulge in such activities. Unfortunately we do not have such a
 tool when it comes to LLMs. Plagiarism detectors won't work. There are projects like GLTR
@@ -166,7 +172,7 @@ an unscalable solution. Why? In today's age, where we go from a billion paramete
 trillion parameter model in a matter of months, it is a game of whack-a-mole. For a concrete
 example, take the output from GPT-2 and study the result from the tool versus any human
 written text. Next, replace the former text with an output from GPT-3. The tool will give you
-indistinguishable results from the human written text.
+indistinguishable results from the human written text.  
 This also brings up deeper conversations on Copyright, the nature of knowledge and thinking,
 and the act of writing. Are our thoughts truly original? What exactly is independent thought?
 Aren't we an assortment of whatever we see and study around us? Don't we think like the books
@@ -179,7 +185,7 @@ think...sure it does not. But despite that it’s pretty close I'd say. Even if 
 it original, what about the copyrights? The way we produce works of art, by assimilating other
 people’s work and applying our own weights and biases, if that can be copyrighted, then why
 not a work by AI? On a serious note, what about derivatives like song remixes? Does that make
-you change your mind now?
+you change your mind now?  
 Writing is not just a way to express what you think or know. As you grow older, more influential,
 leaders in your fields, you'd realize that people at that level use writing as a means to think. To
 direct their thoughts in a coherent direction and to form new ideas. As a matter of fact, the
@@ -189,7 +195,7 @@ their everyday tasks, due to the technological advances in wireless communicatio
 better, more powerful consumer laptops and PCs able to run computationally heavy tasks thus
 giving us the ability to have these language models integrated in our browsers and cloud
 services like next generation Grammarly, what impact would it have on their growth, their ability
-to think critically, form independent ideas?
+to think critically, form independent ideas?  
 Would this lead to a loss of a fundamental activity and growth of human development? Will they
 be sheep that are even easier to sway than we are (read the ability to affect public opinion by
 Cambridge Analytica - documentaries like "The Great Hack", "The Social Dilemma").
@@ -205,7 +211,7 @@ access to the local library or encyclopedias at home. What I did have was access
 through my neighbor. And this meant that I had one more source of information other than
 textbooks and books in the school's library. I never thought about it then, but in hindsight
 somehow knowledge was democratized and now even more so. You just need to press the
-correct buttons. However, this is just the beginning of the story.
+correct buttons. However, this is just the beginning of the story.  
 Is technology truly democratic? Are the creators of AI truly democratizing it? The important point
 here is that democratization does not necessarily mean accessibility. The internet, while being
 very accessible these days, is still not truly accessible because the ISP providers are very few
@@ -224,7 +230,7 @@ and so much more is IP. It needs a team of people to run, fine-tune and maintain
 that it takes millions of dollars to train LLMs and maintain them. In that case, it is a unicorn, out
 of the reach of the common public. You and I can never train our own LLM. In that case is it truly
 democratic? OpenAI has exclusive rights to deny their services to anyone that they deem a
-reputational risk or does not align with their vision.
+reputational risk or does not align with their vision.  
 Knowing what we know so far, it is indeed dangerous to advocate for its release. What is the
 right kind of organization to build and own something of such scale and ambition, with such
 promise and such potential for abuse? Perhaps we can take cues from space programs of
@@ -234,7 +240,7 @@ orbit. OpenAI started as a non-profit in service of advancing AI for mankind, bu
 became a for-profit (capped profit to be precise) and started selling shares to stakeholders. WIth
 money and capitalism finding its way inside a non-profit, can we truly expect them to work in
 humanity's best interest? Narratives work by creating polemics. Polarization sells, and a
-capitalist mindset would always exploit it.
+capitalist mindset would always exploit it.  
 The strongest counterpoint to all this is that there were reports when GPT-2 came out that the
 world would be overrun with fake news. We now have GPT-3 but nothing really has happened
 so far. Perhaps nothing will happen. While I accept my embellishment, I would like to point out
@@ -243,7 +249,7 @@ of human momentum and aversion to change. Technology can take time to catch on. 
 momentum works. It takes a lot of effort to get started, but once it starts, it's incredibly difficult to
 stop. When GPT-2 came out, we had only AI Dungeon - https://play.aidungeon.io/ - but now we
 have Sudowrite - https://www.sudowrite.com/ - and Livebooks - https://livebookai.com/ - in
-addition.
+addition.  
 Political bots that influenced the 2016 elections in the USA - imagine a more sophisticated
 version of them instead of pre-programmed bots that spew the same words again and again.
 These would be much harder to detect and take down. GPT-3 combined with DALL.E 2 -
@@ -254,14 +260,14 @@ burden is on the user and how much on the creator of the tool? Can it happen ent
 side or another? Who is accountable? Who shoulders the responsibilities? The news is rife with
 politicians saying “it was my secretary that posted that tweet”, or CEOs saying that they are not
 responsible for what their employees did. “My AI did it” should not be an excuse for illegal
-behavior.
+behavior.  
 One very interesting thing that I have actually repeatedly heard from women is that they are
 really concerned by LLMs because now they will lose the ability to judge who to trust or not and
 filter men based on subtle red flags. In a very different use of LLMs where they change toxic
 language into something benign and are used in communication or dating apps, can have
 unintended consequences. This might trip the ability of women to filter unsuitable partners,
 because they rely on these subtle communication cues to judge the trustworthiness and
-suitability of partners.
+suitability of partners.  
 I will start closing the essay with a slightly broader discussion on AI because LLMs are a
 consequence of AI. Therefore it makes sense to take a step back, zoom out and conclude.
 Thinking about and accurately predicting the future pervaded with AIs is not a simple
@@ -273,7 +279,7 @@ species. With power comes responsibility, it really is in our hands how we coale
 a species to coexist with nature and other species, including a possible synthetic species. We
 really must ask ourselves, is using GPT-3 for anything irresponsible? It is important to realize
 that throughout the essay there are subtle undertones of how polarized we are becoming as a
-society instead of coalescing and bridging our differences.
+society instead of coalescing and bridging our differences.  
 This week as Metz, Cade noted in a NYT article that an engineer at Google said that an AI
 generator is self-aware and submitted documents as proof to a US senator’s office (the said
 engineer - who also said that the AI has rights and might have a soul - was subsequently put on
@@ -295,7 +301,7 @@ robots...how far does the chain go? What would its goal be? Would it search for 
 it does would be linked to its goal. Would wiping us be in service to that goal - whatever that
 may be? Is its goal to survive? Perhaps that means it's under threat, but from whom? Us? Once
 we are gone, how then does the vision change? I think this is an endless rabbit hole of
-questions.
+questions.  
 I think precautionary principle is at best inadequate to look at the problem. At its worst, it stops
 useful research and the possibility of generation of new knowledge. Moreover, as Shantam Raj,
 Philipp Marock, Cyrill Hidber (May 9, 2022) show in their presentation on Precautionary
@@ -305,7 +311,7 @@ alien invasion are not fantastical - these are serious questions that physicists
 on. On a more urgent note, climate change and alternative energy are some areas where AI
 could be a game changer. A more practical one might be fighting pandemics, AI has had a huge
 impact in biomedical studies especially protein folding, something which is very important to
-develop antibodies (you might as well read that as vaccines).
+develop antibodies (you might as well read that as vaccines).  
 I think the easiest way to think about this problem is to make it simple in the terms of two
 principles - Human Rights and Utilitarianism, with Human Rights given the preference. The idea
 is that utilitarianism takes care of a general sense of harm irrespective of race or minority status.
@@ -316,7 +322,7 @@ impasse of precautionary principle, and utilitarianism fails in the short term, 
 that there are people and organizations that can indeed bear the cost. Moreover in trying to do
 something new, we are looking at places we have never looked before, therefore we may end
 up doing small benefits along the way. We can do something that deals with risks AND creates
-all kinds of short term benefits.
+all kinds of short term benefits.  
 Did I tell you that one of the paragraphs above was generated? Could you figure out which one?
 I am just kidding. I would never do that to you.
 Or would I?
